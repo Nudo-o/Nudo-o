@@ -12,5 +12,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" alt="DiscordJS" width="40" height="40"/>&nbsp;
 
-**Personal:** AutoHotkey v1-2, Lua, Chrome extensions
+**Personal:** AutoHotkey v1-2, Lua, Chrome extensions/scripts
 </div></div>
